@@ -1,3 +1,11 @@
+Created changes to the original file.
+- Cleaned CSS to be more organized based on page flow
+- Fixed broken links
+- Cleaned up Semantic HTML Elements.
+- Added ALT attributes to images and links
+- Changed Title Element
+
+
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
